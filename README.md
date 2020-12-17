@@ -1,5 +1,5 @@
 # SimpleSiteTemplate
-A very basic site template I created, with a iPhone-style scrolling icon theme
+A very basic site template I created, with an iPhone-style scrolling icon theme
 
 I was tasked with creating a simple front end that end users would use to navigate the different IT services we had to offer in our department.
 
