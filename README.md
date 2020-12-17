@@ -7,7 +7,7 @@ This was my project about halfway through the completed product, without any act
 
 Nowadays, people are more used to their handheld devices, and scrolling is something that comes naturally. I decided to incorporate that scrollable-style into this site template. 
 
-This template has been coded to be easily customizable and versatile, simple HTML and CSS. 
+This template has been coded to be easily customizable and versatile using simple HTML and CSS. 
 
 
 NOTE: I do plan on using this template to create a full functioning mock website in the near future. 
